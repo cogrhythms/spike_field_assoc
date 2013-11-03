@@ -1,0 +1,144 @@
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 10.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 7.07e-03, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 20.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 6.60e-05, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 30.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 4.07e-04, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 40.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 2.76e-03, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 50.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 8.84e-02, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 60.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 3.29e-03, after iterations 1.00e-05
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 70.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 5.84e-05, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 80.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 5.44e-04, after iterations 9.98e-06
+
+
+
+glm_sfa_pl(): Refining parameter estimates for frequency 90.0.
+
+
+
+glm_sfa_pl(): Newton-Raphson MSE: before iterations 2.54e-04, after iterations 9.99e-06
+
+
+
+glm_sfa_pl(): Frequency 10.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 20.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 30.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 40.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 50.0		Sum sqr. residuals = 5.80e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.38e+03, aic = 4.77e+03
+
+
+
+glm_sfa_pl(): Frequency 60.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 70.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 80.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
+
+
+glm_sfa_pl(): Frequency 90.0		Sum sqr. residuals = 5.82e+02
+
+
+
+glm_sfa_pl(): n_params = 3, log_lik = -2.41e+03, aic = 4.83e+03
+
